@@ -12,6 +12,7 @@ const NavBar = () => {
 
     const menuItems = [
         {path: '/', text: 'inicio'},
+        {path: '/bio', text: 'bio'},
         {path: '/links', text: 'links'},
     ];
 
