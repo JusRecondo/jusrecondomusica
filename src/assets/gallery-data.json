@@ -1,0 +1,92 @@
+[
+    {
+        "id": "img1",
+        "type": "image",
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(1).webp?alt=media&token=17f78f3c-1803-47df-b47e-b975737b61e6",
+        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
+    },
+    {
+        "id": "emb1",
+        "type": "embed",
+        "content": "https://bandcamp.com/EmbeddedPlayer/album=121350350/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/",
+        "info": ""
+    },
+    {
+        "id": "vid5",
+        "type": "video", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%20en%20ciclo%20fiasco.mp4?alt=media&token=3c0bc6d8-94b0-436d-a06d-690f4b4244a2",
+        "info": ""
+    },
+    {
+        "id": "vid5b",
+        "type": "video", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%20en%20elnaufragio%20merlo%20video%20(2).mp4?alt=media&token=69687cee-8835-4d3c-a124-495900bbf536",
+        "info": ""
+    },
+    {
+        "id": "img2",
+        "type": "image", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(3).webp?alt=media&token=6d66df31-556c-47cd-907e-91bd7ed314ef",
+        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
+    },
+    {
+        "id": "emb2",
+        "type": "embed", 
+        "content": "https://bandcamp.com/EmbeddedPlayer/album=1844072498/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/track=192056765/transparent=true/",
+        "info": ""
+    },
+    {
+        "id": "vid6",
+        "type": "video", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%20en%20vivo%20improvisacion.mp4?alt=media&token=425c0223-d919-4a36-acae-0ce96db4add0",
+        "info": ""
+    },
+    {
+        "id": "emb3",
+        "type": "embed", 
+        "content": "https://bandcamp.com/EmbeddedPlayer/album=1844072498/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/track=4145417966/transparent=true/",
+        "info": ""
+    },
+    {
+        "id": "vid7",
+        "type": "video", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%20en%20elnaufragio%20merlo%20video.mp4?alt=media&token=052b049b-0b04-4153-9085-c1b571d6680e",
+        "info": ""
+    },
+    {
+        "id": "emb4",
+        "type": "embed", 
+        "content": "https://bandcamp.com/EmbeddedPlayer/album=109636381/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/track=2608364208/transparent=true/",
+        "info": ""
+    },
+    {
+        "id": "img3",
+        "type": "image", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(2).webp?alt=media&token=c6dba1dc-18e4-45b4-ac69-ae8a5a519952",
+        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
+    },
+    {
+        "id": "emb5",
+        "type": "embed", 
+        "content": "https://bandcamp.com/EmbeddedPlayer/album=109636381/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=4043113360/transparent=true/",
+        "info": ""
+    },
+    {
+        "id": "img4",
+        "type": "image", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(7).webp?alt=media&token=2d5412e6-136e-4f33-a5b9-516dc3fa41ae",
+        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
+    },
+    {
+        "id": "vid8",
+        "type": "video", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%202024%20salas%20tifon.mp4?alt=media&token=fe45bf9a-d5be-4bef-9372-197f7fefaca9",
+        "info": ""
+    },
+    {
+        "id": "img5",
+        "type": "image", 
+        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(5).webp?alt=media&token=d95c1081-2b36-4867-8de5-6c9201a03f55",
+        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
+    }
+]
