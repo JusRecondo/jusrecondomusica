@@ -1,10 +1,10 @@
 
 
+import { Routes, Route } from "react-router-dom";
 import Header from './components/header/Header';
 import Footer from './components/footer/Footer';
-import Home from './pages/Home';
-import { Routes, Route } from "react-router-dom";
-import Links from './pages/Links';
+import Home from './pages/home/Home';
+import Links from './pages/links/Links';
 import './styles/globals.scss';
 
 function App() {
