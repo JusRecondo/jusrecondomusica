@@ -1,6 +1,6 @@
-import CustomList from "../../../components/customList/CustomList";
-import Main from "../../../components/main/Main";
-import links from '../../../assets/links-data.json';
+import CustomList from '../../components/customList/CustomList';
+import Main from '../../components/main/Main';
+import links from '../../assets/links-data.json';
 import styles from './Links.module.scss';
 
 const Links = () => {
