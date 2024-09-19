@@ -1,0 +1,65 @@
+@import '../../styles/utils/utils.scss';
+
+.galleryItem {
+    max-width: 100%;
+    padding: 3px;
+    border: 1px solid $white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.iframe,
+.image,
+.video {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.iframe {
+    height: 470px;
+    width: 350px;
+    max-width: 100%;
+}
+
+.itemInfo {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    min-height: 40px;
+    text-align: center;
+    word-break: break-all;
+    background-color: $black;
+    margin: 0;
+    padding: 6px;
+    opacity: 0;
+}
+
+.showInfo {
+    opacity: 1;
+}
+
+@include media-md {
+    .galleryItem {
+        flex-basis: 32%;
+    }
+
+    .video {
+        height: 400px;
+    }
+    
+    .image {
+        height: 450px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+    .galleryItem {
+        flex-basis: 44%;
+    }
+}
