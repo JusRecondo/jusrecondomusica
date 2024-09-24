@@ -23,6 +23,7 @@ const GalleryItem = ({ item }) => {
                     src={item.content}
                     frameBorder="0"
                     allowFullScreen
+                    title={item.info}
                 ></iframe>
             ) : item.type === CONTENT_TYPES.image ? (
                 <>
@@ -36,7 +37,7 @@ const GalleryItem = ({ item }) => {
                     <img
                         className={styles.image}
                         src={item.content}
-                        alt={item.title}
+                        alt={item.info}
                     />
                 </>
             ) : item.type === CONTENT_TYPES.video ? (
