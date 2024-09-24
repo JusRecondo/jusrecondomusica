@@ -19,7 +19,7 @@ const Bio = () => {
             <p>A partir de 2022 se presenta de manera solista realizando un set donde plantea la improvisación sonora como el desarrollo de espacios y escenas, recorriendo un camino con una narrativa construida a través de cambios en densidad, timbres y grados de organización. Utiliza como recursos principales la guitarra eléctrica, los sintetizadores experimentales que desarrolló y que suenan desde su celular, junto con samples de sonidos procesados, sumando ocasionalmente otros elementos como radios am/fm o colaborando con otres músiques para improvisar.
             </p>
             <p>
-                En 2022 editó de forma independiente su primer EP de improvisación <a href="https://open.spotify.com/intl-es/album/0pZVTyuRmEfLqViE36eUPb?si=U1DKp3IbTbCLj89aUWdmwQ" target="_blank" rel="noopener noreferrer">“259022”</a> y <strong>el diez de octubre de 2024 estará disponible en todas las plataformas su segundo EP “091223”.</strong>
+                En 2022 editó de forma independiente su primer EP de improvisación <a href="https://open.spotify.com/intl-es/album/0pZVTyuRmEfLqViE36eUPb?si=U1DKp3IbTbCLj89aUWdmwQ" target="_blank" rel="noopener noreferrer">“259022”</a> y <strong>pronto estará disponible en todas las plataformas su segundo EP “091223”.</strong>
             </p>
         </Main>
     )
