@@ -2,7 +2,7 @@
     {
         "id": "img1",
         "type": "image",
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(1).webp?alt=media&token=17f78f3c-1803-47df-b47e-b975737b61e6",
+        "content": "/images/jusrecondo-naufragio-merlo1.webp",
         "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
     },
     {
@@ -26,7 +26,7 @@
     {
         "id": "img2",
         "type": "image", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(3).webp?alt=media&token=6d66df31-556c-47cd-907e-91bd7ed314ef",
+        "content": "/images/jusrecondo-naufragio-merlo2.webp",
         "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
     },
     {
@@ -62,7 +62,7 @@
     {
         "id": "img3",
         "type": "image", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(2).webp?alt=media&token=c6dba1dc-18e4-45b4-ac69-ae8a5a519952",
+        "content": "/images/jusrecondo-naufragio-merlo3.webp",
         "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
     },
     {
@@ -74,7 +74,7 @@
     {
         "id": "img4",
         "type": "image", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(7).webp?alt=media&token=2d5412e6-136e-4f33-a5b9-516dc3fa41ae",
+        "content": "/images/jusrecondo-naufragio-merlo4.webp",
         "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
     },
     {
@@ -86,7 +86,7 @@
     {
         "id": "img5",
         "type": "image", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jusrecondo-naufragio-merlo%20(5).webp?alt=media&token=d95c1081-2b36-4867-8de5-6c9201a03f55",
+        "content": "/images/jusrecondo-naufragio-merlo5.webp",
         "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
     }
 ]
