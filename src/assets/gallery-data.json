@@ -6,22 +6,22 @@
         "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
     },
     {
+        "id": "emb5",
+        "type": "embed",
+        "content": "https://bandcamp.com/EmbeddedPlayer/album=3989781046/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/",
+        "info": "Escuchar EP 19225"
+    },
+    {
+        "id": "img3",
+        "type": "image", 
+        "content": "/images/jusrecondo-naufragio-merlo3.webp",
+        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
+    },
+    {
         "id": "emb1",
         "type": "embed",
         "content": "https://bandcamp.com/EmbeddedPlayer/album=121350350/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/",
         "info": "Escuchar EP 091223"
-    },
-    {
-        "id": "vid5",
-        "type": "video", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%20en%20ciclo%20fiasco.mp4?alt=media&token=3c0bc6d8-94b0-436d-a06d-690f4b4244a2",
-        "info": ""
-    },
-    {
-        "id": "vid5b",
-        "type": "video", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%20en%20elnaufragio%20merlo%20video%20(2).mp4?alt=media&token=69687cee-8835-4d3c-a124-495900bbf536",
-        "info": ""
     },
     {
         "id": "img2",
@@ -36,57 +36,21 @@
         "info": "Escuchar track 2591"
     },
     {
-        "id": "vid6",
-        "type": "video", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%20en%20vivo%20improvisacion.mp4?alt=media&token=425c0223-d919-4a36-acae-0ce96db4add0",
-        "info": ""
-    },
-    {
         "id": "emb3",
         "type": "embed", 
         "content": "https://bandcamp.com/EmbeddedPlayer/album=1844072498/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/track=4145417966/transparent=true/",
         "info": "Escuchar track 2592"
     },
     {
-        "id": "vid7",
-        "type": "video", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%20en%20elnaufragio%20merlo%20video.mp4?alt=media&token=052b049b-0b04-4153-9085-c1b571d6680e",
-        "info": ""
+        "id": "img5",
+        "type": "image", 
+        "content": "/images/jusrecondo-naufragio-merlo5.webp",
+        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
     },
     {
         "id": "emb4",
         "type": "embed", 
         "content": "https://bandcamp.com/EmbeddedPlayer/album=109636381/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/track=2608364208/transparent=true/",
         "info": "Escuchar track 1712"
-    },
-    {
-        "id": "img3",
-        "type": "image", 
-        "content": "/images/jusrecondo-naufragio-merlo3.webp",
-        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
-    },
-    {
-        "id": "emb5",
-        "type": "embed", 
-        "content": "https://bandcamp.com/EmbeddedPlayer/album=109636381/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/track=4043113360/transparent=true/",
-        "info": "Escuchar track 2610"
-    },
-    {
-        "id": "img4",
-        "type": "image", 
-        "content": "/images/jusrecondo-naufragio-merlo4.webp",
-        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
-    },
-    {
-        "id": "vid8",
-        "type": "video", 
-        "content": "https://firebasestorage.googleapis.com/v0/b/jusrecondo.appspot.com/o/jus%20recondo%202024%20salas%20tifon.mp4?alt=media&token=fe45bf9a-d5be-4bef-9372-197f7fefaca9",
-        "info": ""
-    },
-    {
-        "id": "img5",
-        "type": "image", 
-        "content": "/images/jusrecondo-naufragio-merlo5.webp",
-        "info": "1/4/23 en El naufragio (Merlo) 📸@andaira.ph"
     }
 ]
