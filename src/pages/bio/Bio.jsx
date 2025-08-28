@@ -23,7 +23,7 @@ const Bio = () => {
             <p>En Abril de 2025 un fragmento de 091223 fue publicado como parte del volumen 1 del compilado 
                 <a href="https://pasajesonorooeste.bandcamp.com/album/pasaje-sonoro-oeste-volumen-1" target="_blank" rel="noopener noreferrer"> Paisaje Sonoro Oeste</a>.
             </p>
-            <p>El 9 de Mayo de 2025 se publicó su tercer material “19225”, esta vez a través del sello
+            <p>El 9 de Mayo de 2025 se publicó su tercer material <a href="https://fuegoamigodiscos.bandcamp.com/album/19225" target="_blank" rel="noopener noreferrer">“19225”</a>, a través del sello
                 <a href="https://www.instagram.com/fuego_amigo_discos/" target="_blank" rel="noopener noreferrer"> Fuego Amigo Discos.</a>
             </p>
         </Main>
