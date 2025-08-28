@@ -1,15 +1,36 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JR</title>
-    <meta name="description" content="Jus Recondo es músique y programadore originarie de Merlo, Bs. As.">
-    <meta name="author" content="Jus Recondo">
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JR</title>
+  <meta name="description" content="Jus Recondo es músique y programadore originarie de Merlo, Bs. As.">
+  <meta name="author" content="Jus Recondo">
+  <!-- hydra synth -->
+  <script src="https://unpkg.com/hydra-synth"></script>
+</head>
+
+<body>
+  <div id="root"></div>
+  <div id="bg"></div>
+  <canvas id="hydraCanvas"></canvas>
+  <script type="module" src="/src/main.jsx"></script>
+  <script>
+    let hydra = new Hydra({
+		canvas: document.getElementById('hydraCanvas'),
+		detectAudio: false,
+	}); 
+		
+	noise(10)
+	.modulatePixelate(noise(1).pixelate(20, 30),1024,8)
+	.out(o0);
+	
+	src(o0).modulate(o1, 0.5).out(o2);
+	
+	render(o2);
+  </script>
+</body>
+
 </html>
