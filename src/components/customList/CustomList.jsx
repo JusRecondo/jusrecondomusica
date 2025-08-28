@@ -17,10 +17,10 @@ const CustomList = ({ listItems, limit = null, id = '' }) => {
                 <li key={`item-${index}`} className={styles.contactListItem}>
                     {item.url ? (
                         <a href={item.url} target="_blank" rel="noreferrer">
-                            &lt; {item.text} /&gt;
+                            {item.text}
                         </a>
                     ) : (
-                        <p>&lt; {item.text} /&gt;</p>
+                        <p>{item.text}</p>
                     )}
                 </li>
             ))}
