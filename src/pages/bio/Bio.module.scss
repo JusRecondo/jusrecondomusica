@@ -9,4 +9,20 @@
     a {
         font-weight: 600;
     }
+
+    .catalogLink {
+        &::after {
+            content: '<<';
+            width: 20px;
+            height: 20px;
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+
+        &:hover {
+            &::after {
+                opacity: 1;
+            }
+        }
+    }
 }

@@ -13,6 +13,8 @@ const NavBar = () => {
     const menuItems = [
         {path: '/', text: 'inicio'},
         {path: '/bio', text: 'bio'},
+        {path: '/catalogo', text: 'catálogo'},
+        {path: '/videos', text: 'videos'},
         {path: '/links', text: 'links'},
     ];
 

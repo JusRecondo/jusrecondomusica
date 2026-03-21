@@ -41,9 +41,7 @@ const GalleryItem = ({ item }) => {
                     />
                 </>
             ) : item.type === CONTENT_TYPES.video ? (
-                <video controls className={styles.video}>
-                    <source src={item.content} type="video/mp4" />
-                </video>
+                <iframe className={styles.video} src={item.content} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
             ) : null}
         </article>
     )
